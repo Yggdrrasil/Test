@@ -4,7 +4,8 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: white;
+  background: rgb(93,108,147);
+  background: linear-gradient(90deg, rgba(93,108,147,1) 18%, rgba(92,92,198,1) 39%, rgba(0,212,255,1) 89%);
 }
 
 img {
